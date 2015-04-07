@@ -1,0 +1,15 @@
+# ignore temps and byte-compiled
+*~
+*.swp
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+.Spotlight-V100
+.Trashes

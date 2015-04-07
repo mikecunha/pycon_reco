@@ -1,0 +1,30 @@
+<style>
+    .ui-btn-no-text_wider {
+        width: 60px !important;
+    }
+
+    .favd:after {
+        background-color:yellow !important;
+    }
+            
+    /*
+    ul li .ui-btn:after {
+        background-color: #4da6ff;
+    }
+    */
+
+    ul li h2 {
+        padding-right: 4em !important;
+    }
+
+    ul li h2, .li-details.expanded {
+        white-space: pre !important;           /* CSS 2.0 */
+        white-space: pre-wrap !important;      /* CSS 2.1 */
+        white-space: pre-line !important;      /* CSS 3.0 */
+        white-space: -pre-wrap !important;     /* Opera 4-6 */
+        white-space: -o-pre-wrap !important;   /* Opera 7 */
+        white-space: -moz-pre-wrap !important; /* Mozilla */
+        white-space: -hp-pre-wrap !important;  /* HP Printers */
+        word-wrap: break-word;      /* IE 5+ */
+    }
+</style>
